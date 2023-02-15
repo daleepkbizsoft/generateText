@@ -1,0 +1,12 @@
+{
+  "displayName": "GenerateParagraph",
+  "components": [
+    {
+      "name": "GenerateParagraph",
+      "manifest": "./src/components/GenerateParagraph/manifest.json"
+    }
+  ],
+  "author": "",
+  "description": "",
+  "logo": "./example-logo.png"
+}

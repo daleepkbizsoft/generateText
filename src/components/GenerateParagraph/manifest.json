@@ -1,0 +1,21 @@
+{
+  "displayName": "GenerateParagraph",
+  "defaultWidth": 1220,
+  "defaultHeight": 400,
+  "components": "./index.js",
+  "icon": "./example-thumbnail.png",
+  "props": [
+    {
+      "name": "text",
+      "displayName": "Text",
+      "type": "text",
+      "default": "Dynamic Text goes Here"
+    },
+    {
+      "name": "color",
+      "displayName": "Color",
+      "type": "color",
+      "default": "#00A898"
+    }
+  ]
+}
